@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrderCoffee</string>
+    <string name="custm_name" translatable="false">أسم الزبون</string>
+    <string name="toppigs" translatable="false">"النكهات "</string>
+    <string name="WippedCream">بالكريمة</string>
+    <string name="Chocolate">بالشوكولاتة</string>
+    <string name="quantity">"الكمية "</string>
+    <string name="OrderSummary">ملخص الطلب</string>
+    <string name="order">أطلب</string>
+    <string name="CustmerName">أسم الزبون</string>
+    <string name="hasWippedCream">"قهوة بالكريمة "</string>
+    <string name="hasChocolate">قهوة بالشوكولاتة</string>
+    <string name="quantityApper">الكمية</string>
+    <string name="TotalCost">التكلفة الكلية</string>
+    <string name="coffeeOrderTo">"طلب قهوة للسيد "</string>
+    <string name="Thank_you">"شكرا لك يا "</string>
+</resources>

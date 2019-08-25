@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OrderCoffee</string>
+
+
+    <string name="custm_name">Name</string>
+    <string name="toppigs">toppigs</string>
+    <string name="WippedCream">Wipped Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="quantity">quantity</string>
+    <string name="OrderSummary">Order Summary</string>
+    <string name="order">order</string>
+    <string name="CustmerName">Custmer Name</string>
+    <string name="hasWippedCream">has wipped cream</string>
+    <string name="hasChocolate">has chocolate</string>
+    <string name="quantityApper">quantity</string>
+    <string name="TotalCost"> Total cost</string>
+    <string name="coffeeOrderTo">coffee order to</string>
+    <string name="Thank_you">Thank you</string>
+
+
+</resources>
